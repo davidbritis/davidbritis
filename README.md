@@ -27,7 +27,8 @@ Tenho vivência em **atendimento ao público**, o que me permite atuar com boa c
 - **Club do Investidor** – Site institucional (cliente real)  
   🔗 https://www.clubdoinvestidor.com/
 
-- **Titanium Capital** – Website institucional (cliente real)  
+- **Titanium Capital** – Website institucional (cliente real)
+  🔗 https://www.linkedin.com/in/david-britis-917a77273/
 
 - **Calculadora de IMC** – Projeto acadêmico  
   🔗 https://davidbritis.github.io/calcimc/
@@ -41,8 +42,8 @@ Atuar na área de **Service Desk / Suporte Técnico / TI Júnior / Desenvolvedor
 
 📫 **Contato**
 - GitHub: https://github.com/davidbritis
-- 43 99656-0782
-- davidbritis@gmail.com
+- Whatsapp: 43 99656-0782
+- Gmail: davidbritis@gmail.com
 - Linkedin: https://www.linkedin.com/in/david-britis-917a77273/
 
 - ⚡ Fun fact: ...
