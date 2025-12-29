@@ -41,6 +41,9 @@ Atuar na área de **Service Desk / Suporte Técnico / TI Júnior / Desenvolvedor
 
 📫 **Contato**
 - GitHub: https://github.com/davidbritis
+- 43 99656-0782
+- davidbritis@gmail.com
+- Linkedin: https://www.linkedin.com/in/david-britis-917a77273/
 
 - ⚡ Fun fact: ...
 -->
