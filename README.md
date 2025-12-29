@@ -27,9 +27,9 @@ Tenho vivência em **atendimento ao público**, o que me permite atuar com boa c
 - **Club do Investidor** – Site institucional (cliente real)  
   🔗 https://www.clubdoinvestidor.com/
 
-- **Titanium Capital** – Website institucional (cliente real)
-   🔗 https://www.linkedin.com/in/david-britis-917a77273/
-
+- **Titanium Capital** – Website institucional (cliente real) 
+  🔗 https://davidbritis.github.io/titaniumcapital/index.html
+  
 - **Calculadora de IMC** – Projeto acadêmico  
   🔗 https://davidbritis.github.io/calcimc/
 
