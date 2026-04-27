@@ -1,70 +1,89 @@
-# 👋 Hi, I'm David William Britis Lima
+# 👋 Olá, eu sou David William Britis Lima
 
-I'm a junior Developer in training, with a background in Systems Analysis and Development  
-and experience building real web solutions for clients. This repository is my GitHub profile README — a snapshot of who I am, what I've built, and what I'm learning every day.
-
----
-
-## 💻 About Me
-
-- 🎓 Graduated in Analysis and Development of Systems  
-- 🛠 Front-end development with HTML, CSS & JavaScript  
-- 📚 Continuously learning React and modern web tools  
-- 📍 Based in Brazil, open to remote junior opportunities  
-- 💬 Strong communication skills thanks to experience working with clients and AI training
+💻 Desenvolvedor Front-End em formação
+🎓 Formado em Análise e Desenvolvimento de Sistemas
+📍 Cambé - PR | Aberto para oportunidades remotas ou presenciais
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Sobre mim
 
-Here are some of the key projects I have built and deployed:
+Sou desenvolvedor front-end em início de carreira, com experiência prática na criação de sites reais para clientes.
+Tenho foco em construir interfaces funcionais, responsivas e com boa experiência para o usuário.
 
-### 🔹 **Club do Investidor** – Institutional Website  
-A website created for a real client to present services and engage visitors.
-
-🔗 Live: https://www.clubdoinvestidor.com/  
-📦 Code: https://github.com/davidbritis/clubdoinvestidor
+Estou em constante evolução, estudando novas tecnologias e buscando minha primeira oportunidade como desenvolvedor júnior.
 
 ---
 
-### 🔹 **Titanium Capital** – Company Website  
-A modern, responsive institutional site showcasing business offerings.
+## 🛠 Tecnologias
 
-🔗 Live: https://davidbritis.github.io/titaniumcapital/index.html  
-📦 Code: https://github.com/davidbritis/titaniumcapital
-
----
-
-### 🔹 **Calculadora de IMC** – Academic Project  
-A BMI calculator built as part of my studies — functional and interactive.
-
-🔗 Live: https://davidbritis.github.io/calcimc/  
-📦 Code: https://github.com/davidbritis/calcimc
+* 🌐 HTML5 (estrutura semântica)
+* 🎨 CSS3 (responsividade, Flexbox)
+* ⚡ JavaScript (manipulação do DOM e lógica)
+* 🔧 Git e GitHub
+* ⚛️ React (em aprendizado)
 
 ---
 
-## 🛠 Technologies
+## 📂 Projetos em destaque
 
-These are some of the tools and technologies I work with:
+### 🔹 Club do Investidor – Site Institucional
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **Git & GitHub**  
-- **React (in progress)**
+Site desenvolvido para um cliente real, com foco em apresentação de serviços e captação de leads.
 
----
+🧠 Tecnologias: HTML, CSS, JavaScript
+🚀 Destaques: Layout responsivo, navegação simples e foco em conversão
 
-## 📫 Contact Me
-
-Feel free to reach out or connect with me:
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/david-britis-917a77273/  
-- 📧 Email: davidbritis@gmail.com  
-- ☎️ WhatsApp: +55 43 99656-0782
+🔗 Acesse: https://www.clubdoinvestidor.com/
+📦 Código: https://github.com/davidbritis/clubdoinvestidor
 
 ---
 
-## 🌟 Let’s Build Something Together
+### 🔹 Titanium Capital – Site Empresarial
 
-I’m open to collaborations, junior roles, internships, and opportunities where I can keep learning and growing as a developer.
+Site institucional moderno, com design responsivo e foco em apresentação da empresa.
+
+🧠 Tecnologias: HTML, CSS, JavaScript
+🚀 Destaques: Design limpo, responsividade e organização de conteúdo
+
+🔗 Acesse: https://davidbritis.github.io/titaniumcapital/index.html
+📦 Código: https://github.com/davidbritis/titaniumcapital
+
+---
+
+### 🔹 Calculadora de IMC
+
+Projeto desenvolvido durante os estudos, com foco em lógica de programação e interatividade.
+
+🧠 Tecnologias: HTML, CSS, JavaScript
+🚀 Funcionalidades: Cálculo automático de IMC com base nos dados do usuário
+
+🔗 Acesse: https://davidbritis.github.io/calcimc/
+📦 Código: https://github.com/davidbritis/calcimc
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedor Front-End Júnior, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
+
+---
+
+## 📫 Contato
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/david-britis-917a77273/
+* 📧 Email: [davidbritis@gmail.com](mailto:davidbritis@gmail.com)
+
+---
+
+## 📈 Em constante evolução
+
+Atualmente estudando:
+
+* JavaScript avançado
+* React
+* Boas práticas de desenvolvimento
+
+---
+
+💬 Aberto a oportunidades, networking e novos desafios!
